@@ -1,5 +1,6 @@
 # LLM_for_Marketing_PR
 Facilitating marketing through AI
+
 -->>  AI-Enabled Customer Support Chatbot: Develop a chatbot that uses AI and natural language processing to provide automated customer support. It can understand customer queries, provide relevant information, and assist with common support issues, freeing up human support agents for more complex tasks.
 
 ## 1. Scope and Description
