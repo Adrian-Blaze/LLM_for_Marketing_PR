@@ -12,7 +12,9 @@ Facilitating marketing through AI
 ## 2. Usage
 
 -Ensure you have your API keys for OpenAI and Pinecone.
+
 -Place the PDF file containing the knowledge base for the chatbot in a known location and update the file_path variable in the main() function with the appropriate file path.
+
 -Run the Streamlit app
 
 Authentication
