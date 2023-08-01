@@ -44,4 +44,10 @@ Facilitating marketing through AI
 
 - OpenAI for providing language models and embeddings.
 
+## **PS:**
+
+1.) marketing_PR.ipynb is the python file that implements the same project in a python notebook. Here, the pinecone database for storing embeddings is created and populated with the knowledge base embeddings(OPENAI).
+
+2.) marketing_PR2.ipynb is also python notebook that implements the project but with hugging face.
+
 
