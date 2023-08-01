@@ -13,8 +13,8 @@ def main():
     st.title("Integrated AI chatbot")
 
     file_path = f'C:/Users/user/Desktop/AES automatic electronic Slide user guide.pdf'
-    os.environ["OPENAI_API_KEY"] = "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"
-    pinecone.init(api_key="c930174a-d89e-4697-834e-08c8c32b4361", environment="northamerica-northeast1-gcp")
+    os.environ["OPENAI_API_KEY"] = "sk-xxx"
+    pinecone.init(api_key="xxx", environment="northamerica-northeast1-gcp")
     loader = UnstructuredPDFLoader(file_path)
     pages = loader.load()
     from langchain.text_splitter import RecursiveCharacterTextSplitter
