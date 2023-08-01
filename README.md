@@ -1,7 +1,7 @@
 # LLM_for_Marketing_PR
 Facilitating marketing through AI
 
-### Installation
+### 1. Installation
 
 1. Clone the repository:
 
@@ -10,7 +10,7 @@ git clone https://github.com/your_username/your_repository.git
 cd your_repository
 Install the required dependencies in requirements.txt file
 
-2. Usage
+### 2. Usage
 -Ensure you have your API keys for OpenAI and Pinecone.
 -Place the PDF file containing the knowledge base for the chatbot in a known location and update the file_path variable in the main() function with the appropriate file path.
 -Run the Streamlit app
@@ -26,11 +26,10 @@ Provides possible solutions and stopgaps while waiting for physical technician s
 Greeting, personalization, and context-aware responses.
 Secure user authentication.
 
-3. Acknowledgments
+### 3. Acknowledgments
 Streamlit for the simple and powerful app creation platform.
 Langchain for the NLP framework used for question-answering.
 Pinecone for the vector index service used for fast and efficient retrieval.
 OpenAI for providing language models and embeddings.
-vbnet
 
 
