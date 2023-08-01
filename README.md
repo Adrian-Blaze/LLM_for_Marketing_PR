@@ -50,4 +50,5 @@ Facilitating marketing through AI
 
 2.) marketing_PR2.ipynb is also python notebook that implements the project but with hugging face.
 
+3.) marketing_PR_streamlitapp.py is the optimized streamlit app nased on marketing_PR.ipynb notebook.
 
