@@ -21,11 +21,17 @@ Authentication
 Before accessing the chatbot, users will be prompted to enter their username and password. The default username and password are provided in the code. For a production environment, implement a more secure authentication mechanism.
 
 Features
+
 Personalized Virtual Technical Assistant for automatic sliding door systems.
+
 Accurate responses based on a knowledge base from a PDF knowledge base.
+
 Handles queries related to error codes and general technical issues.
+
 Provides possible solutions and stopgaps while waiting for physical technician support.
+
 Greeting, personalization, and context-aware responses.
+
 Secure user authentication.
 
 ## 3. Acknowledgments
