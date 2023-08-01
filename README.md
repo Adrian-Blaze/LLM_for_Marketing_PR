@@ -30,9 +30,12 @@ Secure user authentication.
 
 ## 3. Acknowledgments
 
-Streamlit for the simple and powerful app creation platform.
-Langchain for the NLP framework used for question-answering.
-Pinecone for the vector index service used for fast and efficient retrieval.
-OpenAI for providing language models and embeddings.
+- Streamlit for the simple and powerful app creation platform.
+
+- Langchain for the NLP framework used for question-answering.
+
+- Pinecone for the vector index service used for fast and efficient retrieval.
+
+- OpenAI for providing language models and embeddings.
 
 
