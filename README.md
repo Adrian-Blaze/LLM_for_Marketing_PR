@@ -1,7 +1,21 @@
 # LLM_for_Marketing_PR
 Facilitating marketing through AI
+-->>  AI-Enabled Customer Support Chatbot: Develop a chatbot that uses AI and natural language processing to provide automated customer support. It can understand customer queries, provide relevant information, and assist with common support issues, freeing up human support agents for more complex tasks.
 
-## 1. Installation
+## 1. Scope and Description
+Use case:
+
+The assistance chatbot is developed for AES Technologies, an automation company specializing in both home automation (smart home, automated doors, etc.) and industrial automation.
+
+Description/Scope:
+
+When a prospective client is considering awarding their automation project, they typically go through a pitching stage where different automation companies market themselves as the best fit for the project. The implementation of the chatbot will be integrated into AES Technologies' website, providing a unique and personalized login for each client they serve.
+Through the chatbot, clients can access a virtual assistant that assists with basic troubleshooting and problem-solving related to any AES system in their home. This immediate support offers critical stopgaps before technicians physically address the issues, ensuring a smoother and more efficient experience for the clients.
+
+By providing clients with a personalized virtual assistant and timely support, AES Technologies gains a significant marketing edge over other companies. The chatbot's effectiveness in resolving issues and enhancing customer satisfaction leads to increased client retention and positions AES Technologies as a preferred automation company, ultimately resulting in securing more contracts after the pitching stage.
+
+
+## 2. Installation
 
   Clone the repository on bash:
   
@@ -9,7 +23,7 @@ Facilitating marketing through AI
   cd your_repository
   Install the required dependencies in requirements.txt file
 
-## 2. Usage
+## 3. Usage
 
 -Ensure you have your API keys for OpenAI and Pinecone.
 
@@ -34,7 +48,7 @@ Facilitating marketing through AI
     
     Secure user authentication.
     
-## 3. Acknowledgments
+## 4. Acknowledgments
 
 - Streamlit for the simple and powerful app creation platform.
 
