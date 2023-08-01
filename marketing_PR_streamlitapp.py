@@ -12,7 +12,7 @@ def main():
     
     st.title("Integrated AI chatbot")
 
-    file_path = f'C:/Users/user/Desktop/AES automatic electronic Slide user guide.pdf'
+    file_path = 'AES automatic electronic Slide user guide.pdf'
     os.environ["OPENAI_API_KEY"] = "sk-xxx"
     pinecone.init(api_key="xxx", environment="northamerica-northeast1-gcp")
     loader = UnstructuredPDFLoader(file_path)
