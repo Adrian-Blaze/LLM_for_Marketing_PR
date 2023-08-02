@@ -14,7 +14,7 @@ def main():
 
     file_path = 'AES automatic electronic Slide user guide.pdf'
     #os.environ["OPENAI_API_KEY"] = "sk-xxx"
-    #pinecone.init(api_key="xxx", environment="northamerica-northeast1-gcp")
+    pinecone.init(api_key=st.secrets["PineconeApiKey"], environment="northamerica-northeast1-gcp")
     loader = UnstructuredPDFLoader(file_path)
     pages = loader.load()
     from langchain.text_splitter import RecursiveCharacterTextSplitter
